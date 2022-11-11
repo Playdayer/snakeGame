@@ -10,6 +10,3 @@ Play this game : https://playdayer.github.io/snakeGame/
 
 
 <img src = "https://media.discordapp.net/attachments/1022924521709252679/1040666205851222016/2022-11-11_2.png?width=820&height=513">
-
-
-<img src = "https://media.discordapp.net/attachments/1022924521709252679/1040666205851222016/2022-11-11_2.png?width=820&height=513">
